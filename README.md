@@ -1,2 +1,3 @@
-# MERVAIQ
-MERVAIQ is a task recorder and reminder tool, also serves as a project management tool
+ERRO
+ERROR
+is a task recorder and reminder tool, also serves as a project management tool
